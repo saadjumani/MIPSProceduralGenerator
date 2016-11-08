@@ -1,0 +1,1 @@
+This is a simple assembly language script written in Assembly Language (MIPS) that can generate a simple 3D Model of a table and print it out to the console, from which user can copy and paste it into notepad and save the file in a .OBJ format.
